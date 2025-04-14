@@ -2,6 +2,9 @@
 
 CodeCraft is a modern web application for managing and showcasing development projects. Built with cutting-edge technologies, it provides a platform for developers to organize, share, and track their coding projects efficiently.
 
+![EliteWear Preview](preview1.png)
+![EliteWear Preview](preview2.png)
+
 ## Features
 
 - **Project Management**: Create, edit, and organize your development projects
